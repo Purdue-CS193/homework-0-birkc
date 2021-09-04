@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+
+# Cameron Birk's First CS193 Homework
+- Github
+- The people who teach the class
+- People not from the Bay Area
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
